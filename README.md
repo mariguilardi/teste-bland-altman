@@ -1,7 +1,7 @@
 # Análise de Bland-Altman
 Código em R para a análise de [Bland-Altman](https://github.com/mariguilardi/teste-bland-altman/blob/main/bland_altman.R) (Altman e Bland, 1983).
 
-Este código foi produzido a partir do código e dados de medidas clínicas disponibilizados por Hirakata e Camey (2009).
+Este código foi produzido a partir do código de Hirakata e Camey (2009).
 
 Adaptação de código por Mariana D. Guilardi e Regina Albanese Pose (https://github.com/albanesere).
 
